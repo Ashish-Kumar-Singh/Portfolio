@@ -1,0 +1,61 @@
+.image-circle{
+    border-radius: 50px;
+}
+.jumbotron
+{
+	background-image:url('../rest.png');
+	background-attachment:fixed;
+    min-height:500px;
+    margin-bottom:0px;
+	text-align:center;
+}
+.five
+{
+	background-color:black;
+	text-align:center;
+	color:#fff;
+	min-height:50px;
+	
+}
+#education
+{
+	min-height:500px;
+	background-color:	#87CEFA;
+}
+#achievements
+{
+	min-height:400px;
+}
+#about
+
+{
+	
+min-height:500px;
+text-align:center;
+
+
+}
+p 
+{
+	font-size:35px;
+}
+li{
+	font-size:35px;
+}
+
+.social{
+	font-size:50px;
+	color:cyan;
+}
+h1{
+	font-size:50px;
+
+}
+#hello{
+	font-size:20px;
+	
+	}
+	.fa{
+		padding:15px;
+	}
+	
